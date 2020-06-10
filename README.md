@@ -1,2 +1,2 @@
 # info.innbyggerkontakt.no
-Publikumsinformasjon om Innbyggerkontakt-løsningen
+Publikumsinformasjon om Innbyggerkontakt-løsningen.
